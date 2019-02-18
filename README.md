@@ -1,4 +1,4 @@
-## Apache Pinot (incubating) 
+### Apache Pinot (incubating) 
 Apache Pinot is a realtime distributed OLAP datastore, which is used to deliver scalable real time analytics with low latency. It can ingest data from offline data sources (such as Hadoop and flat files) as well as online sources (such as Kafka). Pinot is designed to scale horizontally.
 
 These presentations on Pinot give an overview of Pinot:
@@ -10,7 +10,7 @@ These presentations on Pinot give an overview of Pinot:
 
 Looking for the ThirdEye anomaly detection and root-cause analysis platform? Check out the [Pinot/ThirdEye project](https://github.com/apache/incubator-pinot/tree/master/thirdeye)
 
-## Key Features
+### Key Features
 
 - A column-oriented database with various compression schemes such as Run Length, Fixed Bit Length
 - Pluggable indexing technologies - Sorted Index, Bitmap Index, Inverted Index
